@@ -1,7 +1,7 @@
 ## Cheetah-Software
 This repository contains the Robot and Simulation software project.  For a getting started guide, see the documentation folder.
 
-[Software and control design for the MIT Cheetah quadruped robots]{https://dspace.mit.edu/bitstream/handle/1721.1/129877/1237398778-MIT.pdf?sequence=1&isAllowed=y}
+[Software and control design for the MIT Cheetah quadruped robots](https://dspace.mit.edu/bitstream/handle/1721.1/129877/1237398778-MIT.pdf?sequence=1&isAllowed=y)
 
 The common folder contains the common library with dynamics and utilities
 The resources folder will contain data files, like CAD of the robot used for the visualization
